@@ -45,4 +45,4 @@ The project is deployed using GitHub and Vercel.
 
 ## 👩‍💻 Author
 
-Renuka Dasari
+D SAI PRIYA
